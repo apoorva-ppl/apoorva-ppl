@@ -106,11 +106,9 @@ goal: "Build impactful AI-driven products and grow as a Software Engineer with a
 ![Architecture](https://img.shields.io/badge/System-Event_Driven_Design-0A66C2?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Insight_Generation-success?style=flat-square)
 
-- Built to **analyze time-based data** and extract meaningful patterns  
-- Enables **structured investigation of events** with clear traceability  
-- Designed with **scalability and modular architecture** in mind  
-- Focused on **real-world usability, clarity, and decision-making insights**  
-- Clean, extensible codebase — easy to evolve into production-grade system  
+- Built to **analyze time-based data** and extract **meaningful patterns**  
+- Enables **structured investigation** with **clear event traceability**  
+- Designed with **scalable, modular architecture** for **real-world use**     
 
 [![View Repo](https://img.shields.io/badge/→_Explore_Project-0d1117?style=for-the-badge&logo=github)](https://github.com/apoorva-ppl/ChronoSherlock)
 
