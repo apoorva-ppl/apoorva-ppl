@@ -99,17 +99,20 @@ goal: "Build impactful AI-driven products and grow as a Software Engineer with a
 </td>
 <td width="50%" valign="top">
 
-###  driveMoney
-> **Financial management app** built for practical, day-to-day usability.
+### CHRONOSHERLOCK  
+> **Time-aware analytics & investigation system** designed to uncover patterns, track events, and generate actionable insights.
 
-![Finance](https://img.shields.io/badge/Domain-FinTech_Application-blue?style=flat-square)
-![Scalable](https://img.shields.io/badge/Design-Scalable_Architecture-1572B6?style=flat-square)
+![Domain](https://img.shields.io/badge/Domain-Analytics_&_Intelligence-purple?style=flat-square)
+![Architecture](https://img.shields.io/badge/System-Event_Driven_Design-0A66C2?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Insight_Generation-success?style=flat-square)
 
-- Solves a **real personal finance problem**
-- Clean structured implementation with scalability in mind
-- Focus on simplicity + correctness over complexity
+- Built to **analyze time-based data** and extract meaningful patterns  
+- Enables **structured investigation of events** with clear traceability  
+- Designed with **scalability and modular architecture** in mind  
+- Focused on **real-world usability, clarity, and decision-making insights**  
+- Clean, extensible codebase — easy to evolve into production-grade system  
 
-[![View Repo](https://img.shields.io/badge/→_View_Repository-0d1117?style=for-the-badge&logo=github)](https://github.com/apoorva-ppl/driveMoney)
+[![View Repo](https://img.shields.io/badge/→_Explore_Project-0d1117?style=for-the-badge&logo=github)](https://github.com/apoorva-ppl/ChronoSherlock)
 
 </td>
 </tr>
